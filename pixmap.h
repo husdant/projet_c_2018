@@ -12,4 +12,4 @@ struct pixmap_t
   pixel_t** pixel_tab;
 };
 
-pixmap_t* load_pixmap(char* filename)
+pixmap_t* load_pixmap(char* filename);
